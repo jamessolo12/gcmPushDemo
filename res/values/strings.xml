@@ -13,6 +13,6 @@
 	<string name="alert_noname_title">No Name Entered</string>
 	<string name="alert_noname_message">Pick a name already dude!</string>
 	
-	<string name="url_for_register">http://www.noisypix.com/seshandler/recieve.cfm?name=</string>
-	<string name="gcm_sender_id">1031539555628</string>
+	<string name="url_for_register">http://www.myhosteddomain.com/recieve.cfm?name=</string>
+	<string name="gcm_sender_id">**YourGcmSenderId***</string>
 </resources>
